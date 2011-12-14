@@ -1,4 +1,4 @@
-#!/usr/bin/php
+#!/usr/local/php/bin/php
 <?php
 
 $mode = array_key_exists(1, $argv) ? $argv[1] : '';
